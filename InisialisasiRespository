@@ -1,0 +1,14 @@
+Jika kita sudah mempunyai direktori namun tidak berada di bawah kendali Git dan kita inginn mulai mengendalikan dengan Git, kita bisa masuk kedalam direktori proyek tersebut.
+
+Linux : $ cd/home/user/my_project
+macOS : $ cd/users/user/my_project
+Windows : $ cd C:/xampp/htdocs/my_project
+
+Selanjutnya ketik : $ git init
+
+Perintah di atas akan membuat subdirektori baru bernama .git yang berisi semua respository yang diperlukan.
+Namun pada titik ini, belum ada proyek yang bisa dilacak.
+
+Kita bisa memulai membuat file di dalam respository yang sudah kita buat, kemudian untuk menyimpan data dan file kita di Git, gunakan perintah di bawah ini:
+$ git add .
+$ git commit -m "pesan commit"

@@ -1,0 +1,7 @@
+Respository adalah folder atau direktori proyek yang menggunakan git.
+
+Untuk membuat respository project dengan git, kita bisa melakukan dua pendekatan, yaitu:
+
+-Mengambil project atau direktori yang ada dan mengubah menjadi repository Git.
+-Menyalin atau menduplikasi repository Git yang ada dari tempat lain.
+

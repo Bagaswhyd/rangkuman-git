@@ -1,0 +1,22 @@
+Git mendukung untuk pewarnaan pada terminal output, hal ini akan sangat membantu dalam memvisualisasikan perintah output secara cepat dan mudah.
+
+Beberapa perintah yang bisa digunakan untuk konfigurasi warna antara lain:
+-color.ui
+Perintah ini akan mengatur git agar mewarnai hampir semua outputnya secara otomatis.
+konfigurasi defaultnya adalah auto.
+untuk menon aktifkan, kita bisa menjalankan perintah berikut:
+$git config --global color.ui false
+
+-color.*
+Jika ingin lebih spesifik mengenai command atau perintah mana yang diwarnai dan bagaiana warnanya, git menyediakan kata kerja spesifik untuk pengaturan pewarnaan.
+
+color.branch
+color.diff
+color.interactive
+color.status
+
+Jika ingin mengatur warna spesifik pada output, misalkan mengatur informasi output status ke latar depan kuning, latar belakang biru, teks tebal:
+$ git config --global color.status.changed "yellow blue bold"
+
+warna yang bisa digunakan antara lain:
+normal, black, red, green, yellow, blue, magenta, cyan, atau white

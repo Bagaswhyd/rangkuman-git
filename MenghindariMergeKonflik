@@ -1,0 +1,7 @@
+Terkadang ketika kita melakukan push dari repository satu ke repository lainnya, atau menggabungkan branch, tak menutup kemungkinan terjadi merge konflik, hal ini dikarenakan sudah terdapat commit pada file yang sama dengan isi berbeda.
+
+Untuk menghindari konflik sebelum melakukan push, sebaiknya kita melakukan git pull terlebih dahulu.
+
+Jika kita menemui merge conflict, kita bisa memperbaiki file yang konflik dan melakukan commit kembali.
+
+

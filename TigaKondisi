@@ -1,0 +1,9 @@
+GIT mempunyai 3 kondisi utama yang menentukan tempat file kita berada. Antara lain: modified, staged, dan commited.
+
+Modified berarti kita sudah mengubah file, namun belum di-commit ke database kita.
+
+Staged berarti kita telah menandai file atau berkas yang sudah diubah ke dalam versi sekarang untuk snapshot commit kita selanjutnya.
+
+Commited berarti data disimpan dengan aman di database lokal kita.
+
+

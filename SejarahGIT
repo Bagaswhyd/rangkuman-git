@@ -1,0 +1,8 @@
+Pada tahun 2002, proyek kernel Linux mulai menggunakan DVCS (distributed version control system) terpatenkan yang diberi nama BItKeeper.
+
+Namun pada tahun 2005, hubungan antara komunitas yang mengembangkan kernel Linux dan perusahaan komersil pengembang BItKeeper terputus dan status alat bebas biaya dicabut.
+
+Hal ini mendorong komunitas pengembang Linux (khususnya Linus Torvalds, pencipta Linux) untuk mengembangkan alat sendiri berdasarkan beberapa pengalaman yang mereka pelajari saat menggunakan BItKeeper.
+
+Beberapa tujuan dari sistem baru yang akan dibuat antara lain kecepatan, desain sederhana, dukungan kuat untuk pengembangan non-linear, sepenuhnya didistribusikan (benar-benar tersebar) dan mampu menangani proyek besar seperti linux secara efisien.
+

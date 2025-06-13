@@ -1,0 +1,6 @@
+Git hadir dengan tools bernama Git config yang memungkinkan kita untuk mengatur variabel-variabel konfigurasi yang mengontrol semua aspek tentang bagaimana Git beroperasi.
+
+Variabel-variabel ini disimpan di tiga tempat yang berbeda.
+1. File /etc/gitconfig , berisi nilai-nilai untuk setiap pengguna di sistem dan semua respository pengguna tersebut. Untuk membaca dan menulis variabel dari file ini secara khusus, kita bisa menambahkan --system pada perintah git config.
+2. File ~/.gitconfig atau ~/.config/git/config ,berisi nilai-nilai khusus untuk user kita sendiri. Untuk membaca dan menulis variabel dari file ini, kita bisa menambahkan --global pada perintah git config . perintah ini akan mempengaruhi semua respository tempat kita bekerja.
+3. File config dalam direktori Git (./git/config) pada respository yang sedang kita gunakan. pada windows, .gitconfig biasanya berada di direktori $HOME (C:Users\$USER)

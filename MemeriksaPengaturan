@@ -1,0 +1,8 @@
+Untuk memeriksa pengaturan yang ada di Git kita, jalankan perintah:
+git config --list
+
+Kita juga dapat memeriksa pengaturan menggunakan key khusus dengan mengetikkan:
+git config <key>
+
+
+

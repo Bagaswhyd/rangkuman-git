@@ -1,0 +1,7 @@
+Jika kita ingin mendapatkan salinan repository yang ada, kita bisa menggunakan perintah git clone:
+
+$ git clone <url>
+$ git clone C:/xampp/htdocs/my_project
+$ git clone https://github.com/bagas/belajar-git.git
+
+Perintah di atas akan membuat repository dan menginisialisasi direktori .git di dalamnya, menarik semua data untuk repository tersebut dan memeriksa salinan dari versi terbarunya.

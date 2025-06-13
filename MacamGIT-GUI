@@ -1,0 +1,16 @@
+Untuk memudahkan kita dalam mengoprasikan GIT, kita juda gapat menggunakan GIT GUI.
+
+Berikut beberapa contoh Git GUI yang dapat kita gunakan:
+-SmartGit
+platform : Linux, Mac, Windows.
+Untuk mendownload atau mempelajarinya, kita bisa mengunjungi situs https://www.syntevo.com/smartgit/.
+
+-GitKraken
+Platform : Windows, MacOS, Linux.
+Untuk mendownload atau mempelajarinya, kita bisa mengunjungi situs https://www.gitkraken.com/
+
+-GitExtensions
+Platform : Windows, Linux using Mono.
+Untuk mendownload atau mempelajarinya, kita bisa mengunjungi situs http://gitextensions.github.io/
+
+-dll

@@ -1,0 +1,6 @@
+Sebelum memulai konfigurasi, kita harus menyiapkan terlebih dahulu nama dan juga alamat email.
+
+git config --global user.name "bagas"
+git config --global user.email bagas@gmail.com
+
+Pengaturan nama dan alamat email merupakan hal yang sangat penting karena setiap commit pada Git akan menggunakan informasi ini.

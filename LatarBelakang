@@ -1,0 +1,6 @@
+Pengendali versi (version control system) adalah sistem yang merekam perubahan pada file atau sekumpulan file dari waktu ke waktu.
+
+Misalkan kita sebagai programmer atau desainer, biasanya kita akan beberapa kali melakukan perubahan terhadap sebuah file, nah dengan mengguakan pengendali versi. perubahan-perubahan yang kita lakukan akan direkam. Hal ini memungkinkan kita untuk mengembalikan ke versi sebelumnya ataupun membandingkan perubahan file dari waktu ke waktu.
+
+Jika kita bekerja dalam tim sistem ini sangat bermanfaat untuk menghindari dan memecahkan masalah, karena dapat melihat siapa yang terakhir memodifikasi, kapan terakhir dimodifikasi dan sebagainya.
+

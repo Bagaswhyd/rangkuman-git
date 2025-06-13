@@ -1,0 +1,6 @@
+Sebelum menggunakan GIT, ketika kita melakukan peruahan terhadap sebuah file, kita akan menyalin file terlebih dahulu sebagai backup, hal ini menyebabkan banyak file yang tersimpan.
+
+Cara lain tanpa melakukan backup, kita bisa langsung melakukan perubahan dengan menambahkan komentar di dalam filenya, namun kita akan mengalami kesulitan ketika membutuhkan atau mengembalikan ke versi sebelumnya.
+
+Ketika berada pada suatu tim, resiko terjadinya bentrok data sangat besar contohnya seperti saling mereplace atau menumpuk file.
+

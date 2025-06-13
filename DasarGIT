@@ -1,0 +1,24 @@
+-Snapshot pada GIT
+GIT adalah software yang menerapkan VCS, namun GIT memiliki perbedaan jika dibandingkan dengan VCS lainnya. Secara konsep kebanyak sistem lain akan menyimpan informasi sebagai sebuah daftar perubahan-perubahan berbasis file.
+
+Sedangkan GIT akan menyimpan snapshot pada setiap kali kita commit.
+
+-Hampir setiap operasi tersedia di lokal
+Sebagian besar operasi di GIT hanyamembutuhkan file dan resource lokal untuk beroperasi, umumnya tidak ada informasi yang diperlukan dari komputer lain. kita memiliki seluruh history di disk lokal.
+
+Misalkan ingin menelusuri history proyek dan ingin menampilkannya, kita harus bisa langsung membacanya dari database lokal kita, alih-alih harus mengambil dari server jarak jauh.
+
+-GIT memiliki integritas
+GIT dapat mengetahui segala sesuatu perubahan dari file atau direktori karena menerapkan hash SHA-1. Has SHA-1 merupakan string 40 karakter yang terdiri dari karakter heksadesimal (0-9, a-f) dan dihitung berdasarkan isi file atau struktur direktori git.
+
+Git menyimpan semua yang ada di database bukan menggunakan nama file, namun menggunakan nilai hash.
+
+Has terlihat seperti ini:
+9a0b2ed3e903726502dedbf4da863a16bad765b7
+
+-Secara umum, GIT hanya menambahkan data
+ketika kita melakukan tindakan di GIT, hampir semuanya hanya menambahkan data ke database GIT.
+
+Sebelumnya menggunakan GIT, ketika kita melakukan perubahan data, rentan sekali terjadi kehilangan bagian ataupun terjadi kekacauan terhadap data tersebut, dan kita sulit untuk mengembalikan ke versi sebelumnya.
+
+Setelah menggunakan GIT, kita bisa dengan mudah memulihkan data dan mengembalikan ke versi sebelumnya.
